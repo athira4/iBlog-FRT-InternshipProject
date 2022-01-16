@@ -1,10 +1,5 @@
 # iBlog-FRT-InternshipProject
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
-This project is a Front End Website (MedCare).
 
 This is a sample project created for the purpose of learning 
 and demonstration of Microsoft Azure skills during the 
